@@ -3,3 +3,5 @@ fileignoreconfig:
   checksum: acf4f69a82008c95f96430bf70d3dd85d06d71e6788ad4c79c2e2ec7ede62721
 - filename: app/src/main/resources/db/migration/V1.2__CreateProductsTable.sql
   checksum: 17d60767f7776dd2089ac6587d51236ecc044e4de47b47a1c72d82ecc86aae0f
+- filename: app/src/main/resources/db/migration/V1.3__RenamingNameFieldToFullNameInUsersTable.sql
+  checksum: a976831bf1c2e5f1d28515ee9406d1b927023c4b2682aaeb9fa0f20cbf8eed69
